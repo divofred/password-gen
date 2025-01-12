@@ -16,8 +16,8 @@ This is a command-line tool to generate secure, random passwords using cryptogra
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/password-generator.git
-    cd password-generator
+    git clone https://github.com/yourusername/password-gen.git
+    cd password-gen
     ```
 
 2. Install dependencies:
